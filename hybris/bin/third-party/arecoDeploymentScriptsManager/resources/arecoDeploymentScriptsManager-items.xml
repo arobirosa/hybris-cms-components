@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+ [y] hybris Platform
+
+ Copyright (c) 2000-2012 hybris AG
+ All rights reserved.
+
+ This software is the confidential and proprietary information of hybris
+ ("Confidential Information"). You shall not disclose such Confidential
+ Information and shall use it only in accordance with the terms of the
+ license agreement you entered into with hybris.
+
+  
+-->
+<items 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			xsi:noNamespaceSchemaLocation="items.xsd">
+	<enumtypes>
+		<enumtype code="SystemPhase" dynamic="false" >
+            <value code="INITIALIZATION" />
+            <value code="UPDATE" />
+        </enumtype>
+	</enumtypes>
+	
+	<itemtypes>
+        <itemtype generate="true"
+           code="ScriptExecutionResult"
+           jaloclass="org.areco.ecommerce.deploymentscripts.jalo.ScriptExecutionResult"
+           autocreate="true">
+            <deployment table="arscriptresult" typecode="32100"/>
+            <attributes>
+                <attribute qualifier="name" type="java.lang.String">
+                    <description>Name of the state</description>
+                    <modifiers optional="false" unique="true" initial="true" write="false"/>
+                    <persistence type="property"/>
+                </attribute>
+                <attribute qualifier="description" type="localized:java.lang.String">
+                    <description>Description of the state.</description>
+                    <persistence type="property"/>
+                </attribute>
+                <attribute qualifier="canBeRunnedAgain" type="java.lang.Boolean">
+                    <description>If an execution with this state can be run again.</description>
+                    <modifiers optional="false" initial="true" write="false"/>
+                    <persistence type="property"/>
+                </attribute>
+            </attributes>
+        </itemtype>
+		<itemtype generate="true"
+		   code="ScriptExecution"
+		   jaloclass="org.areco.ecommerce.deploymentscripts.jalo.ScriptExecution"
+		   autocreate="true">
+			<deployment table="arscriptexecution" typecode="32101"/>
+			<attributes>
+				<attribute qualifier="extensionName" type="java.lang.String">
+					<description>Location of the deployment script</description>
+					<modifiers optional="false" initial="true" />
+					<persistence type="property"/>
+				</attribute>
+				<attribute qualifier="scriptName" type="java.lang.String">
+                    <description>Name of the deployment script. It is usually the directory name.</description>
+                    <modifiers optional="false" initial="true"/>
+                    <persistence type="property"/>
+                </attribute>
+                <attribute qualifier="result" type="ScriptExecutionResult">
+                    <description>Final state of the execution</description>
+                    <modifiers optional="false" initial="true"/>
+                    <persistence type="property"/>
+                </attribute>
+                <attribute qualifier="phase" type="SystemPhase">
+                    <description>When was the deployment script run.</description>
+                    <modifiers optional="false" initial="true"/>
+                    <persistence type="property"/>
+                </attribute>
+                <attribute qualifier="stacktrace" type="java.lang.String">
+                    <description>Stacktrace if the script was unsuccessful. It is 4KB long.</description>
+                    <persistence type="property">
+                        <columntype database="oracle">
+                            <value>clob</value>
+                        </columntype>
+                        <columntype database="mysql">
+                            <value>text</value>
+                        </columntype>
+                        <columntype>
+                            <value>varchar(4096)</value>
+                        </columntype>
+                    </persistence>
+                </attribute>
+			</attributes>
+		</itemtype>
+		
+	   <itemtype generate="true"
+           code="DeploymentEnvironment"
+           jaloclass="org.areco.ecommerce.deploymentscripts.jalo.DeploymentEnvironment"
+           autocreate="true">
+           <description>Represents each of the group of servers where the deployment scripts may be run.</description>
+           <deployment table="arenvironment" typecode="32103"/>
+            <attributes>
+                <attribute qualifier="name" type="java.lang.String">
+                    <description>Name of the environment</description>
+                    <modifiers optional="false" unique="true" initial="true" write="false"/>
+                    <persistence type="property"/>
+                </attribute>
+                <attribute qualifier="description" type="localized:java.lang.String">
+                    <description>Description of the environment.</description>
+                    <persistence type="property"/>
+                </attribute>
+            </attributes>
+        </itemtype>
+
+	</itemtypes>
+</items>
