@@ -18,15 +18,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/commonweb/testsrc" isTestSource="true" />
@@ -35,9 +27,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/.settings" />
@@ -59,17 +48,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/outboundsync/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

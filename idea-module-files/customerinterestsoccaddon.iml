@@ -20,15 +20,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/commonweb/testsrc" isTestSource="true" />
@@ -37,9 +29,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/.settings" />
@@ -61,17 +50,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/customer-interest/customerinterestsoccaddon/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

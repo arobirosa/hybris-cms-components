@@ -98,5 +98,8 @@
     <orderEntry type="module" module-name="merchandisingservices" />
     <orderEntry type="module" module-name="merchandisingservicesbackoffice" />
     <orderEntry type="module" module-name="merchandisingstorefrontsampledataaddon" />
+    <orderEntry type="module" module-name="arecoDeploymentScriptsManager" />
+    <orderEntry type="module" module-name="arecodeploymentscriptsbackoffice" />
+    <orderEntry type="module" module-name="arecocmscomponents" />
   </component>
 </module>

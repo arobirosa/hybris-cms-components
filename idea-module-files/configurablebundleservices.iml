@@ -18,15 +18,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/commonweb/testsrc" isTestSource="true" />
@@ -35,9 +27,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/.settings" />
@@ -59,17 +48,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleservices/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

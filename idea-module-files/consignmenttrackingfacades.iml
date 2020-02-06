@@ -17,15 +17,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/commonweb/testsrc" isTestSource="true" />
@@ -34,9 +26,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/.settings" />
@@ -58,17 +47,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingfacades/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

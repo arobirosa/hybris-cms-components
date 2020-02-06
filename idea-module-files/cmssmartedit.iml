@@ -22,16 +22,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -42,15 +37,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/commonweb/testsrc" isTestSource="true" />
@@ -59,9 +46,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/.settings" />
@@ -83,17 +67,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/smartedit/cmssmartedit/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

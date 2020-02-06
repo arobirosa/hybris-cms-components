@@ -17,15 +17,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/commonweb/testsrc" isTestSource="true" />
@@ -34,9 +26,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/.settings" />
@@ -58,17 +47,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorinitialdata/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

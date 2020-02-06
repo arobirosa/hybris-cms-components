@@ -18,15 +18,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/commonweb/testsrc" isTestSource="true" />
@@ -35,9 +27,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/.settings" />
@@ -59,17 +48,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

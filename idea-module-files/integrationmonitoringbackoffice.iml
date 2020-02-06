@@ -20,15 +20,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/commonweb/testsrc" isTestSource="true" />
@@ -37,9 +29,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/.settings" />
@@ -61,17 +50,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/integrationmonitoringbackoffice/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

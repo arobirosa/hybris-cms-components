@@ -19,15 +19,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/commonweb/testsrc" isTestSource="true" />
@@ -36,9 +28,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/.settings" />
@@ -60,17 +49,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorbackoffice/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

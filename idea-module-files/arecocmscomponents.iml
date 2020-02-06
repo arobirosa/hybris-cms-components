@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="arecocmscomponentsspring" name="arecocmscomponentsspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/resources/arecocmscomponents-spring.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot/WEB-INF/config/arecocmscomponents-spring-security-config.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot/WEB-INF/config/arecocmscomponents-web-app-config.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/resources" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents">
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/custom/arecocmscomponents/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

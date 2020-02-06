@@ -19,15 +19,10 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -38,14 +33,6 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/commonweb/testsrc" isTestSource="true" />
@@ -54,9 +41,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/.settings" />
@@ -79,17 +63,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/npm-ancillary/npmancillary/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

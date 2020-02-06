@@ -21,15 +21,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/commonweb/testsrc" isTestSource="true" />
@@ -38,9 +30,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/.settings" />
@@ -62,17 +51,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/base-accelerator/yacceleratorfulfilmentprocess/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

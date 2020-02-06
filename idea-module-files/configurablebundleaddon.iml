@@ -19,15 +19,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/commonweb/testsrc" isTestSource="true" />
@@ -36,9 +28,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/.settings" />
@@ -60,17 +49,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/configurable-bundle/configurablebundleaddon/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

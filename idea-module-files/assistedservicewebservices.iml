@@ -26,16 +26,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -46,15 +41,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/commonweb/testsrc" isTestSource="true" />
@@ -63,9 +50,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/.settings" />
@@ -87,28 +71,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/webroot/WEB-INF/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/web/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/assisted-services/assistedservicewebservices/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

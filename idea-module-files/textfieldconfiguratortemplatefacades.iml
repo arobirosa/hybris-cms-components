@@ -18,15 +18,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/commonweb/testsrc" isTestSource="true" />
@@ -35,9 +27,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/.settings" />
@@ -59,17 +48,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplatefacades/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

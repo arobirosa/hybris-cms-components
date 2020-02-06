@@ -84,5 +84,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="cockpit" exported="" />
+    <orderEntry type="module" module-name="cockpit" exported="" />
   </component>
 </module>

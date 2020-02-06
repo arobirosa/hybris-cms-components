@@ -25,16 +25,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -45,15 +40,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/commonweb/testsrc" isTestSource="true" />
@@ -62,9 +49,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/.settings" />
@@ -86,28 +70,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/webroot/WEB-INF/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/web/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingcmswebservices/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

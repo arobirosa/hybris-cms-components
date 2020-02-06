@@ -17,15 +17,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/commonweb/testsrc" isTestSource="true" />
@@ -34,9 +26,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/.settings" />
@@ -58,17 +47,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationservices/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

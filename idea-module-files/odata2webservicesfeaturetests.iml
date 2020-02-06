@@ -20,15 +20,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/commonweb/testsrc" isTestSource="true" />
@@ -37,9 +29,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/.settings" />
@@ -61,17 +50,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservicesfeaturetests/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

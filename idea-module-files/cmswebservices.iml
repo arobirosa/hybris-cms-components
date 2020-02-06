@@ -32,16 +32,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -52,15 +47,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/commonweb/testsrc" isTestSource="true" />
@@ -69,9 +56,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/.settings" />
@@ -93,28 +77,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/webroot/WEB-INF/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/web/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/web-content-management-system/cmswebservices/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

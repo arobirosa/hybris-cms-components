@@ -30,16 +30,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -50,15 +45,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/commonweb/testsrc" isTestSource="true" />
@@ -67,9 +54,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/.settings" />
@@ -91,28 +75,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/webroot/WEB-INF/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/web/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/core-accelerator/acceleratorservices/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

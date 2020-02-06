@@ -27,6 +27,7 @@
         <option value="apiregistryservices" />
         <option value="apparelstore" />
         <option value="arecoDeploymentScriptsManager" />
+        <option value="arecocmscomponents" />
         <option value="arecodeploymentscriptsbackoffice" />
         <option value="assistedservicecustomerinterestsaddon" />
         <option value="assistedservicecustomerinterestsfacades" />

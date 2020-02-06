@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/apiregistryservices.iml" filepath="$PROJECT_DIR$/idea-module-files/apiregistryservices.iml" group="Hybris/api-registry" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/apparelstore.iml" filepath="$PROJECT_DIR$/idea-module-files/apparelstore.iml" group="Hybris/b2c-accelerator" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/arecoDeploymentScriptsManager.iml" filepath="$PROJECT_DIR$/idea-module-files/arecoDeploymentScriptsManager.iml" group="Custom" />
+      <module fileurl="file://$PROJECT_DIR$/idea-module-files/arecocmscomponents.iml" filepath="$PROJECT_DIR$/idea-module-files/arecocmscomponents.iml" group="Custom" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/arecodeploymentscriptsbackoffice.iml" filepath="$PROJECT_DIR$/idea-module-files/arecodeploymentscriptsbackoffice.iml" group="Custom" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/assistedservicecustomerinterestsaddon.iml" filepath="$PROJECT_DIR$/idea-module-files/assistedservicecustomerinterestsaddon.iml" group="Hybris/assisted-services" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/assistedservicecustomerinterestsfacades.iml" filepath="$PROJECT_DIR$/idea-module-files/assistedservicecustomerinterestsfacades.iml" group="Hybris/assisted-services" />
@@ -47,7 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/cmssmartedit.iml" filepath="$PROJECT_DIR$/idea-module-files/cmssmartedit.iml" group="Hybris/smartedit" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/cmssmarteditwebservices.iml" filepath="$PROJECT_DIR$/idea-module-files/cmssmarteditwebservices.iml" group="Hybris/smartedit" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/cmswebservices.iml" filepath="$PROJECT_DIR$/idea-module-files/cmswebservices.iml" group="Hybris/web-content-management-system" />
-      <module fileurl="file://$PROJECT_DIR$/idea-module-files/cockpit.iml" filepath="$PROJECT_DIR$/idea-module-files/cockpit.iml" group="Hybris/Unused" />
+      <module fileurl="file://$PROJECT_DIR$/idea-module-files/cockpit.iml" filepath="$PROJECT_DIR$/idea-module-files/cockpit.iml" group="Hybris/cockpit-core/deprecated" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/comments.iml" filepath="$PROJECT_DIR$/idea-module-files/comments.iml" group="Platform" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/commercefacades.iml" filepath="$PROJECT_DIR$/idea-module-files/commercefacades.iml" group="Hybris/commerce-services" />
       <module fileurl="file://$PROJECT_DIR$/idea-module-files/commerceorgsamplesaddon.iml" filepath="$PROJECT_DIR$/idea-module-files/commerceorgsamplesaddon.iml" group="Hybris/b2b-accelerator" />

@@ -22,16 +22,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -42,15 +37,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/commonweb/testsrc" isTestSource="true" />
@@ -59,9 +46,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/.settings" />
@@ -83,28 +67,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/webroot/WEB-INF/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/web/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/cds-merchandising/merchandisingsmartedit/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

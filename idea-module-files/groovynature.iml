@@ -20,16 +20,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -40,15 +35,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/commonweb/testsrc" isTestSource="true" />
@@ -57,9 +44,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/.settings" />
@@ -81,28 +65,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/webroot/WEB-INF/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/web/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/platform/groovynature/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

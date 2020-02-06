@@ -17,16 +17,11 @@
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/webroot" relative="/" />
         </webroots>
         <sourceRoots>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/resources" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/src" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/commonweb/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/commonweb/gensrc" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/acceleratoraddon/web/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/acceleratoraddon/web/gensrc" />
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/backoffice/src" />
           <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/backoffice/resources" />
         </sourceRoots>
       </configuration>
@@ -37,15 +32,7 @@
     <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/eclipsebin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock">
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/gensrc" isTestSource="false" generated="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/web/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/commonweb/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/commonweb/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/commonweb/testsrc" isTestSource="true" />
@@ -54,9 +41,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/acceleratoraddon/web/testsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/backoffice/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/backoffice/testsrc" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/backoffice/groovytestsrc" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/backoffice/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/.externalToolBuilders" />
       <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/.settings" />
@@ -78,17 +62,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/classes" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../hybris/bin/modules/consignment-tracking/consignmenttrackingmock/src" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
