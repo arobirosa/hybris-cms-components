@@ -17,9 +17,6 @@ import javax.annotation.Resource;
 import org.junit.Before;
 import org.junit.Test;
 
-import org.areco.ecommerce.cms.components.service.ArecocmscomponentsService;
-import org.areco.ecommerce.cms.components.service.impl.DefaultArecocmscomponentsService;
-
 
 /**
  * This is an example of how the integration test should look like. {@link ServicelayerBaseTest} bootstraps platform so

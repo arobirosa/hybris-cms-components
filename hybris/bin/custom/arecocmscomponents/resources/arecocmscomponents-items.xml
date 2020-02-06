@@ -30,6 +30,15 @@
 						</columntype>
 					</persistence>
 				</attribute>
+
+				<attribute qualifier="thankYouText" type="localized:java.lang.String">
+					<description>HTML Text to show when the sign up was successful</description>
+					<persistence type="property">
+						<columntype>
+							<value>HYBRIS.LONG_STRING</value>
+						</columntype>
+					</persistence>
+				</attribute>
 			</attributes>
 		</itemtype>
 	</itemtypes>
