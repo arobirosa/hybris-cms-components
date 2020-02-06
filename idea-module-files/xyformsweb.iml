@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="xyformswebspring" name="xyformswebspring" removed="false">
+          <dependency>xyformsfacadesspring==xyformsfacades</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>acceleratorservicesspring==acceleratorservices</dependency>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/project.properties</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/resources/xyformsweb-spring.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/webroot/WEB-INF/xyformsweb-web-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/resources" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb">
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/yforms/xyformsweb/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="xyformsfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+  </component>
+</module>

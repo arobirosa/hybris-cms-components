@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="odata2webservicesspring" name="odata2webservicesspring" removed="false">
+          <dependency>odata2servicesspring==odata2services</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot/WEB-INF/config/odata2webservices-spring-security-config.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/resources/odata2webservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot/WEB-INF/config/odata2webservices-web-app-config.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/resources" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices">
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/modules/integration-apis/odata2webservices/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="odata2services" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

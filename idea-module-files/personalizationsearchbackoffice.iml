@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="personalizationsearchbackofficespring" name="personalizationsearchbackofficespring" removed="false">
+          <dependency>personalizationsearchspring==personalizationsearch</dependency>
+          <dependency>backofficespring==backoffice</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>personalizationservicesbackofficespring==personalizationservicesbackoffice</dependency>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/resources/personalizationsearchbackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../hybris/bin/modules/personalization-search/personalizationsearchbackoffice/bin/personalizationsearchbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="personalizationsearch" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="personalizationservicesbackoffice" exported="" />
+  </component>
+</module>

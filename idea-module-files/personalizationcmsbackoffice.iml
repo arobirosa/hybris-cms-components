@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="personalizationcmsbackofficespring" name="personalizationcmsbackofficespring" removed="false">
+          <dependency>personalizationcmsspring==personalizationcms</dependency>
+          <dependency>backofficespring==backoffice</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>personalizationservicesbackofficespring==personalizationservicesbackoffice</dependency>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/resources/personalizationcmsbackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../hybris/bin/modules/personalization/personalizationcmsbackoffice/bin/personalizationcmsbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="personalizationcms" exported="" />
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="personalizationservicesbackoffice" exported="" />
+  </component>
+</module>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="solrfacetsearchbackofficespring" name="solrfacetsearchbackofficespring" removed="false">
+          <dependency>backofficespring==backoffice</dependency>
+          <dependency>solrfacetsearchspring==solrfacetsearch</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>platformbackofficespring==platformbackoffice</dependency>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/resources/solrfacetsearchbackoffice-spring.xml</file>
+          <file>file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/bin/solrfacetsearchbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="solrfacetsearch" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="platformbackoffice" exported="" />
+  </component>
+</module>
