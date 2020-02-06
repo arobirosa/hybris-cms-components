@@ -84,3 +84,7 @@ This will compile all the Hybris extensions, the deployment manager, install PMD
 # Versioning
 [Semantic Versioning 2.0.0](http://semver.org/) is used.
 
+# Notes about the code
+* The attributes are only localized in English
+* The NewsletterSignUpCMSComponent don't store the email in the database or send it to an external system. You have to implement this step yourself
+* The permissions for the CMS components aren't configured. You can do this with a Areco Deployment Script 

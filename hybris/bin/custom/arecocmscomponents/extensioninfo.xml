@@ -5,31 +5,12 @@
            
     
     <extension abstractclassprefix="Generated" classprefix="Arecocmscomponents" jaloLogicFree="true" managername="ArecocmscomponentsManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="arecocmscomponents" usemaven="false">
-                  
-      
-        
-        <!-- for more information on maven managed libraries please consult https://wiki.hybris.com/x/Nq8sDQ -->
-                               
-      
-        
-        <!-- you should add all required extensions to this list, except platform extensions which are automatically required -->
-                         
-      
-        
-        <!-- <requires-extension name="cms"/> -->
-                         
-      
-
-      
+        <requires-extension name="cms2"/>
+        <requires-extension name="arecodeploymentscriptsbackoffice" />
         
         <coremodule generated="true" manager="org.areco.ecommerce.cms.components.jalo.ArecocmscomponentsManager" packageroot="org.areco.ecommerce.cms.components"/>
-                      
-        
+
         <webmodule jspcompile="false" webroot="/arecocmscomponents"/>
-                					
-	
-        
-           
     
     </extension>
               
