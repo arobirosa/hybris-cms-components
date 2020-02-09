@@ -13,7 +13,7 @@
 
 		<itemtype generate="true"
 				  code="NewsletterSignUpCMSComponent"
-				  jaloclass="org.areco.ecommerce.cms.components.jalo.NewsletterSignUpCMSComponent"
+				  jaloclass="org.areco.ecommerce.cms.newsletter.jalo.NewsletterSignUpCMSComponent"
 				  extends="SimpleCMSComponent"
 				  autocreate="true"
 		>

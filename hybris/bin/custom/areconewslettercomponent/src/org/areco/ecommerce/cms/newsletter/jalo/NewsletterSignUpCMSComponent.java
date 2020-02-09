@@ -1,4 +1,4 @@
-package org.areco.ecommerce.cms.components.jalo;
+package org.areco.ecommerce.cms.newsletter.jalo;
 
 import de.hybris.platform.jalo.Item;
 import de.hybris.platform.jalo.JaloBusinessException;
