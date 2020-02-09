@@ -2,6 +2,8 @@ package org.areco.ecommerce.cms.newsletter.controllers.cms;
 
 
 
+import org.areco.ecommerce.cms.components.model.NewsletterSignUpCMSComponentModel;
+
 /**
  */
 public interface ControllerConstants
@@ -21,6 +23,7 @@ public interface ControllerConstants
 			/**
 			 * CMS components that have specific handlers
 			 */
+			String NewsletterSignUpCMSComponent = _Prefix + NewsletterSignUpCMSComponentModel._TYPECODE + _Suffix; // NOSONAR
 		}
 	}
 
@@ -38,7 +41,7 @@ public interface ControllerConstants
 		{
 			interface Newsletter // NOSONAR
 			{
-				String signUp = "fragments/newsletter/signUp"; // NOSONAR
+				String signUp = "newsletter/signUp"; // NOSONAR
 			}
 		}
 	}
