@@ -63,17 +63,24 @@ ant all
 ```
 This will create the config folder, set up the extensios for the b2c accelerator and import the apparel and electronics store. For windows you have to run instead the setantenv.bat file. Type the command **setantenv.bat**
 
+* After this, please follow these steps [https://help.sap.com/viewer/4c33bf189ab9409e84e589295c36d96e/1905/en-US/8ace75c786691014a5e9dcafa29d5410.html](Customizing the Accelerator with extgen and modulegen) to create the training storefrontend.
+* Add the domain electronics.local to your local /etc/hosts file:
+``127.0.0.1       electronics.local`` 
 
 * Add the content of hybris-cms-components/hybris/config/local.properties.template to your own local.properties:
 ```
 cat hybris/config/local.properties.template >> hybris/config/local.properties
 ```
 
-* Add the extensions **arecoDeploymentScriptsManager** and **arecodeploymentscriptsbackoffice** to hybris/config/localextensions.xml
+* Add the following extensions to hybris/config/localextensions.xml:
+```
+    <extension name="areconewslettercomponent"/>
+```
+* Reinstall the addons `` ant reinstall_addons -Dtarget.storefront=trainingstorefront``
 * Now you are ready to compile everything. Run in a console directly in the path of the project directory **hybris-cms-components**:
-~~~~~~
+```
 ant clean all qa
-~~~~~~
+```
 
 If you experience memory issues during the compile process, check the option **standalone.javaoptions** in the file hybris\bin\platform\resources\advanced.properties by reducing the memory configured.
 
