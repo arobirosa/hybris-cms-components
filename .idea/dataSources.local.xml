@@ -2,9 +2,10 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="platform" uuid="cdc21e60-cc78-455e-9989-971cf566d1c5">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="HSQLDB" exact-version="0" />
       <secret-storage>master_key</secret-storage>
       <user-name>sa</user-name>
+      <schema-mapping />
     </data-source>
   </component>
 </project>

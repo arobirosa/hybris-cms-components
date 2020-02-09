@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="yacceleratorstorefrontspring" name="yacceleratorstorefrontspring" removed="false">
+          <dependency>assistedserviceyprofileaddonspring==assistedserviceyprofileaddon</dependency>
+          <dependency>commerceorgsamplesaddonspring==commerceorgsamplesaddon</dependency>
+          <dependency>smarteditaddonspring==smarteditaddon</dependency>
+          <dependency>orderselfserviceaddonspring==orderselfserviceaddon</dependency>
+          <dependency>adaptivesearchsamplesaddonspring==adaptivesearchsamplesaddon</dependency>
+          <dependency>customerinterestsaddonspring==customerinterestsaddon</dependency>
+          <dependency>captchaaddonspring==captchaaddon</dependency>
+          <dependency>xyformsstorefrontcommonsspring==xyformsstorefrontcommons</dependency>
+          <dependency>personalizationsearchsamplesaddonspring==personalizationsearchsamplesaddon</dependency>
+          <dependency>acceleratorstorefrontcommonsspring==acceleratorstorefrontcommons</dependency>
+          <dependency>xyformssamplesspring==xyformssamples</dependency>
+          <dependency>configurablebundleaddonspring==configurablebundleaddon</dependency>
+          <dependency>promotionenginesamplesaddonspring==promotionenginesamplesaddon</dependency>
+          <dependency>merchandisingaddonspring==merchandisingaddon</dependency>
+          <dependency>merchandisingstorefrontsampledataaddonspring==merchandisingstorefrontsampledataaddon</dependency>
+          <dependency>stocknotificationaddonspring==stocknotificationaddon</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>personalizationaddonspring==personalizationaddon</dependency>
+          <dependency>assistedservicecustomerinterestsaddonspring==assistedservicecustomerinterestsaddon</dependency>
+          <dependency>profiletagaddonspring==profiletagaddon</dependency>
+          <dependency>notificationaddonspring==notificationaddon</dependency>
+          <dependency>yacceleratorfacadesspring==yacceleratorfacades</dependency>
+          <dependency>pcmbackofficesamplesaddonspring==pcmbackofficesamplesaddon</dependency>
+          <dependency>consignmenttrackingaddonspring==consignmenttrackingaddon</dependency>
+          <dependency>customerticketingaddonspring==customerticketingaddon</dependency>
+          <dependency>personalizationyprofilesampledataaddonspring==personalizationyprofilesampledataaddon</dependency>
+          <dependency>assistedservicestorefrontspring==assistedservicestorefront</dependency>
+          <dependency>textfieldconfiguratortemplateaddonspring==textfieldconfiguratortemplateaddon</dependency>
+          <dependency>assistedservicepromotionaddonspring==assistedservicepromotionaddon</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/b2c-accelerator-addons/captchaaddon/resources/captchaaddon/web/spring/captchaaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofileaddon/resources/assistedserviceyprofileaddon/web/spring/assistedserviceyprofileaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/cds-merchandising/merchandisingstorefrontsampledataaddon/resources/merchandisingstorefrontsampledataaddon/web/spring/merchandisingstorefrontsampledataaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/personalization-search/personalizationsearchsamplesaddon/resources/personalizationsearchsamplesaddon/web/spring/personalizationsearchsamplesaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicestorefront/resources/assistedservicestorefront/web/spring/assistedservicestorefront-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/core-accelerator/acceleratorcms/resources/acceleratorcms/spring/web-spring-context.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/order-management/orderselfserviceaddon/resources/orderselfserviceaddon/web/spring/orderselfserviceaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/stock-notification/stocknotificationaddon/resources/stocknotificationaddon/web/spring/stocknotificationaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/personalization-integration/personalizationyprofilesampledataaddon/resources/personalizationyprofilesampledataaddon/web/spring/personalizationyprofilesampledataaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/b2b-accelerator/commerceorgsamplesaddon/resources/commerceorgsamplesaddon/web/spring/commerceorgsamplesaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/consignment-tracking/consignmenttrackingaddon/resources/consignmenttrackingaddon/web/spring/consignmenttrackingaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/yforms/xyformssamples/resources/xyformssamples/web/spring/xyformssamples-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/config/spring-cms-config.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchsamplesaddon/resources/adaptivesearchsamplesaddon/web/spring/adaptivesearchsamplesaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/personalization/personalizationaddon/resources/personalizationaddon/web/spring/personalizationaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/config/spring-mvc-config.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/customer-interest/customerinterestsaddon/resources/customerinterestsaddon/web/spring/customerinterestsaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/cds-integration/profiletagaddon/resources/profiletagaddon/web/spring/profiletagaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/configurable-bundle/configurablebundleaddon/resources/configurablebundleaddon/web/spring/configurablebundleaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/config/spring-filter-config.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/notification/notificationaddon/resources/notificationaddon/web/spring/notificationaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/promotion-engine/promotionenginesamplesaddon/resources/promotionenginesamplesaddon/web/spring/promotionenginesamplesaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsaddon/resources/assistedservicecustomerinterestsaddon/web/spring/assistedservicecustomerinterestsaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/cds-merchandising/merchandisingaddon/resources/merchandisingaddon/web/spring/merchandisingaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/config/spring-security-config.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/config/multi-step-checkout-config.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/yforms/xyformsstorefrontcommons/resources/xyformsstorefrontcommons/web/spring/xyformsstorefrontcommons-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicepromotionaddon/resources/assistedservicepromotionaddon/web/spring/assistedservicepromotionaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/customer-service/customerticketingaddon/resources/customerticketingaddon/web/spring/customerticketingaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/resources/textfieldconfiguratortemplateaddon/web/spring/textfieldconfiguratortemplateaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/smartedit/smarteditaddon/resources/smarteditaddon/web/spring/smarteditaddon-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/config/web-application-config.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/resources" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/base-accelerator/yacceleratorstorefront/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="assistedserviceyprofileaddon" exported="" />
+    <orderEntry type="module" module-name="commerceorgsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="smarteditaddon" exported="" />
+    <orderEntry type="module" module-name="orderselfserviceaddon" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="customerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="captchaaddon" exported="" />
+    <orderEntry type="module" module-name="xyformsstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="personalizationsearchsamplesaddon" exported="" />
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="xyformssamples" exported="" />
+    <orderEntry type="module" module-name="configurablebundleaddon" exported="" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="merchandisingaddon" exported="" />
+    <orderEntry type="module" module-name="merchandisingstorefrontsampledataaddon" exported="" />
+    <orderEntry type="module" module-name="stocknotificationaddon" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="personalizationaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicecustomerinterestsaddon" exported="" />
+    <orderEntry type="module" module-name="profiletagaddon" exported="" />
+    <orderEntry type="module" module-name="notificationaddon" exported="" />
+    <orderEntry type="module" module-name="yacceleratorfacades" exported="" />
+    <orderEntry type="module" module-name="pcmbackofficesamplesaddon" exported="" />
+    <orderEntry type="module" module-name="consignmenttrackingaddon" exported="" />
+    <orderEntry type="module" module-name="customerticketingaddon" exported="" />
+    <orderEntry type="module" module-name="personalizationyprofilesampledataaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicestorefront" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateaddon" exported="" />
+    <orderEntry type="module" module-name="assistedservicepromotionaddon" exported="" />
+  </component>
+</module>

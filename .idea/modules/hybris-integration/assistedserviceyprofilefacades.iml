@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="assistedserviceyprofilefacadesspring" name="assistedserviceyprofilefacadesspring" removed="false">
+          <dependency>assistedservicefacadesspring==assistedservicefacades</dependency>
+          <dependency>yaasyprofileconnectspring==yaasyprofileconnect</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/resources/assistedserviceyprofilefacades-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services-integrations/assistedserviceyprofilefacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="module" module-name="yaasyprofileconnect" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

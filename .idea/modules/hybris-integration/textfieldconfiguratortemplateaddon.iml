@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="textfieldconfiguratortemplateaddonspring" name="textfieldconfiguratortemplateaddonspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <dependency>acceleratorstorefrontcommonsspring==acceleratorstorefrontcommons</dependency>
+          <dependency>textfieldconfiguratortemplatefacadesspring==textfieldconfiguratortemplatefacades</dependency>
+          <dependency>addonsupportspring==addonsupport</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/resources/textfieldconfiguratortemplateaddon-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/text-field-configurator-template/textfieldconfiguratortemplateaddon/acceleratoraddon/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="acceleratorstorefrontcommons" exported="" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplatefacades" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

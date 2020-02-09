@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="areconewslettercomponentspring" name="areconewslettercomponentspring" removed="false">
+          <dependency>addonsupportspring==addonsupport</dependency>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/custom/areconewslettercomponent/acceleratoraddon/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>
