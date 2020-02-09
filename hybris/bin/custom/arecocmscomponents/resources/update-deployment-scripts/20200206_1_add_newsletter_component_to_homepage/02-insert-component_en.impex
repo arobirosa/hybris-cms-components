@@ -6,7 +6,7 @@ $contentCV=catalogVersion(CatalogVersion.catalog(Catalog.id[default=$contentCata
 
 $lang=en
 
-UPDATE NewsletterSignUpCMSComponent;$contentCV[unique=true];uid[unique=true];title[lang=$lang];agreementText[lang=$lang]
-                                   ;;NewsletterSignUpHomepage;Get last minute offers!;By signing to our newsletter you agree to our <a href=\"#\">privacy policy</a>. We won't share your email with any third party and you can unsubscribe whenever you want;
+UPDATE NewsletterSignUpCMSComponent;$contentCV[unique=true];uid[unique=true];title[lang=$lang];agreementText[lang=$lang];thankYouText[lang=en]
+                                   ;;NewsletterSignUpHomepage;Get last minute offers!;By signing to our newsletter you agree to our <a href=\"#\">privacy policy</a>. We won't share your email with any third party and you can unsubscribe whenever you want;Please check your inbox, a confirmation email was sent!;
 
 
