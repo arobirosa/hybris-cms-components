@@ -38,6 +38,9 @@ hybris/bin/custom/arecoDeploymentScriptsExamples/web/webroot/cockpit
 hybris/bin/custom/arecoDeploymentScriptsExamples/resources/arecoDeploymentScriptsExamples/arecoDeploymentScriptsExamples-testclasses.xml
 hybris/bin/custom/arecoDeploymentScriptsManager/resources/arecoDeploymentScriptsManager/arecoDeploymentScriptsManager-testclasses.xml
 
+# Training frontend
+hybris/bin/custom/training
+
 #Configuration file
 hybris/config
 
