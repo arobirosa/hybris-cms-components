@@ -7,7 +7,7 @@
 
 <spring:htmlEscape defaultHtmlEscape="true" />
 
-<c:url value="/fragments/newsletter/signUp" var="newsletterSignUpUrl" />
+<c:url value="/newsletter/signUp" var="newsletterSignUpUrl" />
 
 <div class="newsletter-signup">
     <h1><c:out value="${title}" escapeXml="true" /></h1>
