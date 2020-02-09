@@ -76,7 +76,7 @@ cat hybris/config/local.properties.template >> hybris/config/local.properties
 ```
     <extension name="areconewslettercomponent"/>
 ```
-* Reinstall the addons `` ant reinstall_addons -Dtarget.storefront=trainingstorefront``
+* Add the addon ``ant addoninstall -Daddonnames="areconewslettercomponent" -DaddonStorefront.yacceleratorstorefront="trainingstorefront"``
 * Now you are ready to compile everything. Run in a console directly in the path of the project directory **hybris-cms-components**:
 ```
 ant clean all qa
