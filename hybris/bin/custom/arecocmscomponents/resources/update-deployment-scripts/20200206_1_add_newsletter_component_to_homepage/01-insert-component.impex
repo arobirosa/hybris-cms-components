@@ -16,7 +16,7 @@ INSERT_UPDATE NewsletterSignUpCMSComponent;$contentCV[unique=true];uid[unique=tr
 INSERT_UPDATE ComponentTypeGroups2ComponentType;source(code)[unique=true];target(code)[unique=true]
                                                ;wide;NewsletterSignUpCMSComponent
 
-INSERT_UPDATE ContentSlot;$contentCV[unique=true];uid[unique=true];cmsComponents[mode=append]
+INSERT_UPDATE ContentSlot;$contentCV[unique=true];uid[unique=true];cmsComponents($contentCV, uid)[mode=append]
                          ;;Section5Slot-Homepage;NewsletterSignUpHomepage
 
 
