@@ -5,6 +5,7 @@
       <configuration process_explicitly_annotated="false">
         <fileset id="areconewslettercomponentspring" name="areconewslettercomponentspring" removed="false">
           <dependency>addonsupportspring==addonsupport</dependency>
+          <dependency>arecodeploymentscriptsbackofficespring==arecodeploymentscriptsbackoffice</dependency>
         </fileset>
       </configuration>
     </facet>
@@ -79,5 +80,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="addonsupport" exported="" />
+    <orderEntry type="module" module-name="arecodeploymentscriptsbackoffice" exported="" />
   </component>
 </module>

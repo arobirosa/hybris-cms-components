@@ -94,6 +94,13 @@
     <orderEntry type="module" module-name="merchandisingservices" />
     <orderEntry type="module" module-name="merchandisingservicesbackoffice" />
     <orderEntry type="module" module-name="merchandisingstorefrontsampledataaddon" />
+    <orderEntry type="module" module-name="trainingfulfilmentprocess" />
+    <orderEntry type="module" module-name="trainingcore" />
+    <orderEntry type="module" module-name="trainingfacades" />
+    <orderEntry type="module" module-name="trainingtest" />
+    <orderEntry type="module" module-name="traininginitialdata" />
+    <orderEntry type="module" module-name="trainingbackoffice" />
+    <orderEntry type="module" module-name="trainingstorefront" />
     <orderEntry type="module" module-name="areconewslettercomponent" />
   </component>
 </module>

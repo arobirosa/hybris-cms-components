@@ -8,7 +8,7 @@
 
         <!--requires-extension name="trainingstorefront" / -->
         <requires-extension name="arecodeploymentscriptsbackoffice" />
-        <requires-extension name="addonsupport"/>         
+        <requires-extension name="addonsupport"/>
         
         <coremodule generated="true" manager="org.areco.ecommerce.cms.newsletter.jalo.AreconewslettercomponentManager" packageroot="org.areco.ecommerce.cms.newsletter"/>
                 		

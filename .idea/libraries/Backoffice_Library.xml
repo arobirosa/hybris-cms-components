@@ -21,14 +21,13 @@
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/rule-engine/rulebuilderbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/yforms/xyformsbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-accelerator/yacceleratorbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/api-registry/apiregistrybackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/basecommercebackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/promotionsbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/voucherbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/rule-engine/ruleenginebackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/backofficesolrsearch/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-applications/pcmbackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/rule-engine/ruleenginebackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/promotion-engine/promotionenginebackoffice/resources/backoffice" />
     </CLASSES>
     <JAVADOC />
@@ -38,7 +37,6 @@
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-applications/pcmbackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/backofficesolrsearch/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/platformbackoffice/resources/backoffice" recursive="true" />
-    <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-accelerator/yacceleratorbackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/basecommercebackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/promotionsbackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/voucherbackoffice/resources/backoffice" recursive="true" />

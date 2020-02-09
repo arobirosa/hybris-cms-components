@@ -27,7 +27,6 @@
         <option value="apiregistryservices" />
         <option value="apparelstore" />
         <option value="arecoDeploymentScriptsManager" />
-        <option value="arecocmscomponents" />
         <option value="arecodeploymentscriptsbackoffice" />
         <option value="areconewslettercomponent" />
         <option value="assistedservicecustomerinterestsaddon" />
@@ -434,6 +433,13 @@
         <option value="timedaccesspromotionenginesamplesaddon" />
         <option value="timedaccesspromotionengineservices" />
         <option value="tomcatembeddedserver" />
+        <option value="trainingbackoffice" />
+        <option value="trainingcore" />
+        <option value="trainingfacades" />
+        <option value="trainingfulfilmentprocess" />
+        <option value="traininginitialdata" />
+        <option value="trainingstorefront" />
+        <option value="trainingtest" />
         <option value="verticalnavigationaddon" />
         <option value="voucher" />
         <option value="voucherbackoffice" />

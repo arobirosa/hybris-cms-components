@@ -222,6 +222,13 @@
       <w>ticketsystem</w>
       <w>ticketsystembackoffice</w>
       <w>tomcatembeddedserver</w>
+      <w>trainingbackoffice</w>
+      <w>trainingcore</w>
+      <w>trainingfacades</w>
+      <w>trainingfulfilmentprocess</w>
+      <w>traininginitialdata</w>
+      <w>trainingstorefront</w>
+      <w>trainingtest</w>
       <w>typecode</w>
       <w>typegroup</w>
       <w>typesystem</w>

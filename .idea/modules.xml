@@ -21,7 +21,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/apiregistryservices.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/apiregistryservices.iml" group="Hybris/api-registry" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/apparelstore.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/apparelstore.iml" group="Hybris/b2c-accelerator" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/arecoDeploymentScriptsManager.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/arecoDeploymentScriptsManager.iml" group="Custom" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/arecocmscomponents.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/arecocmscomponents.iml" group="Custom" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/arecodeploymentscriptsbackoffice.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/arecodeploymentscriptsbackoffice.iml" group="Custom" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/areconewslettercomponent.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/areconewslettercomponent.iml" group="Custom" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/assistedservicecustomerinterestsaddon.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/assistedservicecustomerinterestsaddon.iml" group="Hybris/assisted-services" />
@@ -185,6 +184,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/ticketsystem.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/ticketsystem.iml" group="Hybris/customer-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/ticketsystembackoffice.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/ticketsystembackoffice.iml" group="Hybris/customer-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/tomcatembeddedserver.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/tomcatembeddedserver.iml" group="Hybris/platform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/trainingbackoffice.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/trainingbackoffice.iml" group="Custom/training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/trainingcore.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/trainingcore.iml" group="Custom/training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/trainingfacades.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/trainingfacades.iml" group="Custom/training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/trainingfulfilmentprocess.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/trainingfulfilmentprocess.iml" group="Custom/training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/traininginitialdata.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/traininginitialdata.iml" group="Custom/training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/trainingstorefront.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/trainingstorefront.iml" group="Custom/training" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/trainingtest.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/trainingtest.iml" group="Custom/training" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/validation.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/validation.iml" group="Platform" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/voucher.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/voucher.iml" group="Hybris/base-commerce" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/voucherbackoffice.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/voucherbackoffice.iml" group="Hybris/base-commerce" />
@@ -197,12 +203,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/xyformsstorefrontcommons.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/xyformsstorefrontcommons.iml" group="Hybris/yforms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/xyformsweb.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/xyformsweb.iml" group="Hybris/yforms" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yaasyprofileconnect.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yaasyprofileconnect.iml" group="Hybris/assisted-services-integrations" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorbackoffice.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorbackoffice.iml" group="Hybris/base-accelerator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorcore.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorcore.iml" group="Hybris/base-accelerator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorfacades.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorfacades.iml" group="Hybris/base-accelerator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorfulfilmentprocess.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorfulfilmentprocess.iml" group="Hybris/base-accelerator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorinitialdata.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorinitialdata.iml" group="Hybris/base-accelerator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorstorefront.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/yacceleratorstorefront.iml" group="Hybris/base-accelerator" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/ycommercewebservices.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/ycommercewebservices.iml" group="Hybris/commerce-services" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hybris-integration/ycommercewebservicestest.iml" filepath="$PROJECT_DIR$/.idea/modules/hybris-integration/ycommercewebservicestest.iml" group="Hybris/commerce-services" />
     </modules>
