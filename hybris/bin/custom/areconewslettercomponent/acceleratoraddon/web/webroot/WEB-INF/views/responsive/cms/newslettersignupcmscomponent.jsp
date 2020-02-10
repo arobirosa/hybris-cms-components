@@ -4,6 +4,7 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="ycommerce" uri="http://hybris.com/tld/ycommercetags"%>
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
 
 <spring:htmlEscape defaultHtmlEscape="true" />
 
@@ -12,7 +13,7 @@
     <div class="row">
         <div class="col-md-10  col-md-offset-1" id="formContainer">
             <h1><c:out value="${component.title}" escapeXml="true" /></h1>
-            <form id="newsletter_sign_up_form_${fn:escapeXml(component.uid)}" method="post" action="${fn:escapeXml(newsletterSignUpUrl)}" class="form-inline">
+            <form:form id="newsletter_sign_up_form_${fn:escapeXml(component.uid)}" method="post" action="${fn:escapeXml(newsletterSignUpUrl)}" class="form-inline">
                 <ycommerce:testId code="newsletter_sign_up_form">
                     <div class="form-group">
                         <spring:theme code="newsletter.signup.emailAddress.label" var="emailAddressPlaceholder"/>
@@ -31,7 +32,7 @@
                     </button>
                     <input type="hidden" name="cmsComponentId" id="cmsComponentId" value="${component.uid}" />
                 </ycommerce:testId>
-            </form>
+            </form:form>
         </div>
     </div>
 
