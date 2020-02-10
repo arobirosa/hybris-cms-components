@@ -1,7 +1,7 @@
 package org.areco.ecommerce.cms.newsletter.controllers.cms;
 
 import de.hybris.platform.addonsupport.controllers.cms.AbstractCMSAddOnComponentController;
-import org.areco.ecommerce.cms.components.model.NewsletterSignUpCMSComponentModel;
+import org.areco.ecommerce.cms.newsletter.model.NewsletterSignUpCMSComponentModel;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

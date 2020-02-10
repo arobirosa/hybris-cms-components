@@ -1,8 +1,6 @@
 package org.areco.ecommerce.cms.newsletter.controllers.cms;
 
-
-
-import org.areco.ecommerce.cms.components.model.NewsletterSignUpCMSComponentModel;
+import org.areco.ecommerce.cms.newsletter.model.NewsletterSignUpCMSComponentModel;
 
 /**
  */
