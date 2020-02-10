@@ -6,7 +6,7 @@ import javax.validation.constraints.NotBlank;
 
 public class NewsletterSignupForm {
 
-	@Email
+	@Email @NotBlank
 	private String emailAddress;
 
 	@AssertTrue
