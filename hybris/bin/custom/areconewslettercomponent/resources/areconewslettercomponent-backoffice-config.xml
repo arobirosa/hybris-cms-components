@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+ Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved
+-->
+<config xmlns="http://www.hybris.com/cockpit/config"
+        xmlns:c="http://www.hybris.com/cockpitng/config/common"
+        xmlns:y="http://www.hybris.com/cockpit/config/hybris"
+        xmlns:wz="http://www.hybris.com/cockpitng/config/wizard-config"
+        xmlns:list-view="http://www.hybris.com/cockpitng/component/listView"
+        xmlns:editorArea="http://www.hybris.com/cockpitng/component/editorArea"
+        xmlns:explorer-tree="http://www.hybris.com/cockpitng/config/explorertree"
+        xmlns:simple-search="http://www.hybris.com/cockpitng/config/simplesearch"
+        xmlns:advanced-search="http://www.hybris.com/cockpitng/config/advancedsearch"
+        xmlns:df="http://www.hybris.com/cockpitng/component/dynamicForms"
+        xmlns:dsb="http://www.hybris.com/cockpitng/config/dashboard"
+        xmlns:na="http://www.hybris.com/cockpitng/config/notifications"
+        xmlns:grid-view="http://www.hybris.com/cockpitng/component/gridView">
+
+    <context merge-by="type" parent="GenericItem" type="JaloTranslatorConfiguration" component="editor-area">
+        <editorArea:editorArea name="">
+            <editorArea:tab name="hmc.tab.common">
+                <editorArea:section name="hmc.properties">
+                    <editorArea:attribute qualifier="title"/>
+                    <editorArea:attribute qualifier="agreementText">
+                        <editorArea:editor-parameter>
+                            <editorArea:name>rows</editorArea:name>
+                            <editorArea:value>4</editorArea:value>
+                        </editorArea:editor-parameter>
+                    </editorArea:attribute>
+                    <editorArea:attribute qualifier="thankYouText"/>
+                </editorArea:section>
+            </editorArea:tab>
+        </editorArea:editorArea>
+    </context>
+
+</config>
