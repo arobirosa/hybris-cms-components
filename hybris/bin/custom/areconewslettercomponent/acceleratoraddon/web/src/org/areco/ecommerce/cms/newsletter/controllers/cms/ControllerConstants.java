@@ -22,6 +22,7 @@ public interface ControllerConstants
 			 * CMS components that have specific handlers
 			 */
 			String NewsletterSignUpCMSComponent = _Prefix + NewsletterSignUpCMSComponentModel._TYPECODE + _Suffix; // NOSONAR
+			String NewsletterSignUp = "/newsletter/signUp";
 		}
 	}
 
@@ -39,7 +40,10 @@ public interface ControllerConstants
 		{
 			interface Newsletter // NOSONAR
 			{
-				String signUp = "newsletter/signUp"; // NOSONAR
+				String _Addon_Prefix = "addon:/areconewslettercomponent/";
+				String SubmissionError = _Addon_Prefix + "fragments/newsletterSubmissionError";
+				String SubmissionSuccessful = _Addon_Prefix + "fragments/newsletterSubmissionSuccessful";
+
 			}
 		}
 	}

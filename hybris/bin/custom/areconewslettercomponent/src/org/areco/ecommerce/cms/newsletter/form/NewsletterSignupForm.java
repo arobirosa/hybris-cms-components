@@ -2,6 +2,7 @@ package org.areco.ecommerce.cms.newsletter.form;
 
 import javax.validation.constraints.AssertTrue;
 import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
 
 public class NewsletterSignupForm {
 
@@ -10,6 +11,9 @@ public class NewsletterSignupForm {
 
 	@AssertTrue
 	private boolean agreed;
+
+	@NotBlank
+	private String cmsComponentId;
 
 	public String getEmailAddress() {
 		return emailAddress;
@@ -25,5 +29,13 @@ public class NewsletterSignupForm {
 
 	public void setAgreed(final boolean pAgreed) {
 		agreed = pAgreed;
+	}
+
+	public String getCmsComponentId() {
+		return cmsComponentId;
+	}
+
+	public void setCmsComponentId(final String pCmsComponentId) {
+		cmsComponentId = pCmsComponentId;
 	}
 }
