@@ -16,7 +16,7 @@
         xmlns:na="http://www.hybris.com/cockpitng/config/notifications"
         xmlns:grid-view="http://www.hybris.com/cockpitng/component/gridView">
 
-    <context merge-by="type" parent="SimpleCMSComponent" type="NewsletterSignUpCMSComponent" component="editor-area">
+    <context merge-by="type" parent="GenericItem" type="JaloTranslatorConfiguration" component="editor-area">
         <editorArea:editorArea name="">
             <editorArea:tab name="hmc.tab.common">
                 <editorArea:section name="hmc.properties">
