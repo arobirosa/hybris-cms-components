@@ -6,13 +6,17 @@
     
     <extension abstractclassprefix="Generated" classprefix="Areconewslettercomponent" description="areconewslettercomponent extension" managername="AreconewslettercomponentManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="areconewslettercomponent">
 
+        <!--requires-extension name="trainingstorefront" / -->
         <requires-extension name="arecodeploymentscriptsbackoffice" />
         <requires-extension name="addonsupport"/>
         
         <coremodule generated="true" manager="org.areco.ecommerce.cms.newsletter.jalo.AreconewslettercomponentManager" packageroot="org.areco.ecommerce.cms.newsletter"/>
-
-        <meta key="backoffice-module" value="true"/>
+                		
+        
+        		
+        
         <meta key="classpathgen" value="false"/>
+                	
     
     </extension>
         
