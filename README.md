@@ -94,4 +94,6 @@ This will compile all the Hybris extensions, the deployment manager, install PMD
 # Notes about the code
 * The attributes are only localized in English
 * The NewsletterSignUpCMSComponent don't store the email in the database or send it to an external system. You have to implement this step yourself
-* The permissions for the CMS components aren't configured. You can do this with a Areco Deployment Script 
+* The permissions for the CMS components aren't configured. You can do this with a Areco Deployment Script
+* Because the CMS components are usually edited with SmartEdit, they don't have any backoffice configuration
+* Because the test data of the stores is imported in the "Create Project" step, Areco Deployment Manager also runs in this step.  
