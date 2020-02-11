@@ -6,7 +6,7 @@
     
     <extension abstractclassprefix="Generated" classprefix="Areconewslettercomponent" description="areconewslettercomponent extension" managername="AreconewslettercomponentManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="areconewslettercomponent">
 
-        <!--requires-extension name="trainingstorefront" / -->
+        <requires-extension name="electronicsstore" /> <!-- Import of the content catalogues -->
         <requires-extension name="arecodeploymentscriptsbackoffice" />
         <requires-extension name="addonsupport"/>
         
