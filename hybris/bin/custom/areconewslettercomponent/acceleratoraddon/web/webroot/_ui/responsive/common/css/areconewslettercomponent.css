@@ -1,7 +1,9 @@
-.newsletter-agreement-label {
+/* Unfortunately we have to correct the layout of the accelerator B2C */
+.newsletter-section .checkbox .newsletter-agreement-label {
     padding-left: 20px;
 }
 
-.newsletter-agreement-input {
+.newsletter-section .newsletter-agreement-input {
     margin-bottom: 5px;
+    margin-right: 5px;
 }
