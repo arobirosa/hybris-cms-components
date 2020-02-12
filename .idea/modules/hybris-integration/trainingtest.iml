@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="trainingtestspring" name="trainingtestspring" removed="false">
+          <dependency>electronicsstorespring==electronicsstore</dependency>
+          <dependency>apparelstorespring==apparelstore</dependency>
+          <dependency>trainingfacadesspring==trainingfacades</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/resources/trainingtest-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/custom/training/trainingtest/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="electronicsstore" exported="" />
+    <orderEntry type="module" module-name="apparelstore" exported="" />
+    <orderEntry type="module" module-name="trainingfacades" exported="" />
+  </component>
+</module>

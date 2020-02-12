@@ -26,10 +26,8 @@
 	
 	<fileset dir="${dir_hybris_bin}" id="fileset_bin_instrumentation">
 		<include name="custom/*/classes/"/>
-		<include name="custom/*/web/webroot/WEB-INF/classes/"/>
-		<include name="custom/*/hmc/classes/**/"/>
-		<exclude name="**/jalo/*.class" /> <!-- Jalo layer -->
-		<exclude name="**/hmc/*.class" /> <!-- Hmc Classes -->
+		<include name="custom/*/web/webroot/WEB-INF/classes/"/>		
+		<exclude name="**/jalo/*.class" /> <!-- Jalo layer -->		
 		<exclude name="**/Generated*.class" /> <!-- Generated Classes (Jalo and hmc) -->
 		<exclude name="**/*Constants.class" /> <!-- Generated Classes (constants) -->
 	</fileset>
@@ -84,14 +82,14 @@
 		<!-- Run the tests using another process. 
 			Hybris runs the tests using the currently running JVM. Cobertura saves the data when the JVM exits
 			and there is no way to run them on another JVM in another process.-->
-		<echo message="Running all tests of the org.areco package"/>	
+		<echo message="Running all tests of the org.areco.ecommerce.cms package"/>	
 		<exec dir="${dir_platform}" executable="ant" failonerror="true" failifexecutionfails="true" osfamily="unix" outputproperty="alltests_output">			
 			<arg line="alltests"/>
-			<arg line="-Dtestclasses.packages=org.areco.*"/>
+			<arg line="-Dtestclasses.packages=org.areco.ecommerce.cms.*"/>
 		</exec>
 		<exec dir="${dir_platform}" executable="ant.bat" failonerror="true" failifexecutionfails="true" osfamily="windows" outputproperty="alltests_output">
 			<arg line="alltests"/>
-			<arg line="-Dtestclasses.packages=org.areco.*"/>
+			<arg line="-Dtestclasses.packages=org.areco.ecommerce.cms.*"/>
 		</exec>
 				 
 	    <!-- As we can't access the ant properties of the subprocess, we check against a string value -->
@@ -105,54 +103,15 @@
 			datafile="${datafile_cobertura}" encoding="UTF-8" >
 			<!-- TOFIX: The report seems to look at the directory of the fileset and not at the files.
 				 Due to this, the name of the extensions must be hardcoded here. -->
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsManager/src" erroronmissingdir="false">
+			<fileset dir="${dir_hybris_bin}/custom/areconewslettercomponent/src" erroronmissingdir="false">
 				<include name="**/*.java" />
 			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsManager/web/src" erroronmissingdir="false">
+			<fileset dir="${dir_hybris_bin}/custom/areconewslettercomponent/web/src" erroronmissingdir="false">
 				<include name="**/*.java" />
 			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecodeploymentscriptshmc/hmc/src" erroronmissingdir="false">
+			<fileset dir="${dir_hybris_bin}/custom/areconewslettercomponent/acceleratoraddon/web/src" erroronmissingdir="false">
 				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsManager/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsManager/web/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecodeploymentscriptshmc/hmc/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsExamples/src" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsExamples/web/src" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsExamples/hmc/src" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsExamples/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsExamples/web/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecoDeploymentScriptsExamples/hmc/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecodeploymentscriptsbackoffice/src" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecodeploymentscriptsbackoffice/backoffice/src" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecodeploymentscriptsbackoffice/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
-			<fileset dir="${dir_hybris_bin}/custom/arecodeploymentscriptsbackoffice/backoffice/testsrc" erroronmissingdir="false">
-				<include name="**/*.java" />
-			</fileset>
+			</fileset>			
 		</cobertura-report>
 		
 		<cobertura-check  datafile="${datafile_cobertura}" haltonfailure="false" failureproperty="coberturafailed"

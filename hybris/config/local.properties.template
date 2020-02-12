@@ -1,0 +1,6 @@
+log4j2.logger.arecodeploymentscriptsmanager.level = ALL
+deploymentscripts.environment.current=DEV
+# Runs the deployment scripts after the import of the product and content catalogue of the electronic store
+deploymentscripts.createdata.type=PROJECT
+
+

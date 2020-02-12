@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="commerceservicesbackofficespring" name="commerceservicesbackofficespring" removed="false">
+          <dependency>backofficespring==backoffice</dependency>
+          <dependency>basecommercebackofficespring==basecommercebackoffice</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>solrfacetsearchbackofficespring==solrfacetsearchbackoffice</dependency>
+          <dependency>promotionsbackofficespring==promotionsbackoffice</dependency>
+          <dependency>commerceservicesspring==commerceservices</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/resources/commerceservicesbackoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/bin/commerceservicesbackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/commerce-services/commerceservicesbackoffice/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/backoffice-framework/backoffice/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="backoffice" exported="" />
+    <orderEntry type="module" module-name="basecommercebackoffice" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="solrfacetsearchbackoffice" exported="" />
+    <orderEntry type="module" module-name="promotionsbackoffice" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+  </component>
+</module>

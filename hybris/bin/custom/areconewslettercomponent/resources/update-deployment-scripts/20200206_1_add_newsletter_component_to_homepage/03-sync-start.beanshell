@@ -1,0 +1,22 @@
+import de.hybris.platform.cronjob.enums.CronJobResult;
+import de.hybris.platform.cronjob.enums.CronJobStatus;
+import de.hybris.platform.servicelayer.cronjob.PerformResult;
+import de.hybris.platform.commerceservices.setup.SetupSyncJobService;
+import de.hybris.platform.core.Registry;
+
+try {
+    SetupSyncJobService catalogSynchronizationService = (SetupSyncJobService) Registry.getApplicationContext().getBean(SetupSyncJobService.class);
+
+    PerformResult performResult = catalogSynchronizationService.executeCatalogSyncJob("electronicsContentCatalog");
+
+    if (!(performResult.getResult().equals(CronJobResult.SUCCESS) && performResult.getStatus().equals(CronJobStatus.FINISHED))) {
+        System.err.format("The sync was unsuccessful: %s \n", performResult.toString());
+        return "ERROR Unsuccessful sync";
+    }
+
+} catch (Exception e) {
+    System.err.println("There was an error:");
+    e.printStackTrace(System.err);
+    return "Error, please see the console of the app server";
+}
+return "OK";

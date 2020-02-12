@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="adaptivesearchwebservicesspring" name="adaptivesearchwebservicesspring" removed="false">
+          <dependency>webservicescommonsspring==webservicescommons</dependency>
+          <dependency>adaptivesearchfacadesspring==adaptivesearchfacades</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>groovynaturespring==groovynature</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/config/cache-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/adaptivesearchwebservices-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/config/error-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/resources/adaptivesearchwebservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/config/field-mapping-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/resources" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/bin/adaptivesearchwebservicesserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../hybris/bin/modules/adaptive-search/adaptivesearchwebservices/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="webservicescommons" exported="" />
+    <orderEntry type="module" module-name="adaptivesearchfacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="groovynature" exported="" />
+  </component>
+</module>

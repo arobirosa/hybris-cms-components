@@ -2,9 +2,6 @@
   <library name="Backoffice Library">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/adaptive-search/adaptivesearchbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/api-registry/apiregistrybackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/backofficesolrsearch/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/basecommercebackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/web-content-management-system/cmsbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/commerce-services/commerceservicesbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/consignment-tracking/consignmenttrackingbackoffice/resources/backoffice" />
@@ -15,21 +12,23 @@
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/sap-cloud-platform-extension-factory-integration/kymaintegrationbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/cds-merchandising/merchandisingservicesbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/integration-apis/outboundsyncbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-applications/pcmbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/personalization/personalizationcmsbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/personalization-integration/personalizationintegrationbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/personalization-promotion/personalizationpromotionsbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/personalization-search/personalizationsearchbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/personalization/personalizationservicesbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/platformbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/promotion-engine/promotionenginebackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/promotionsbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/rule-engine/rulebuilderbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/rule-engine/ruleenginebackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/search-and-navigation/solrfacetsearchbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/voucherbackoffice/resources/backoffice" />
       <root url="file://$PROJECT_DIR$/hybris/bin/modules/yforms/xyformsbackoffice/resources/backoffice" />
-      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-accelerator/yacceleratorbackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/api-registry/apiregistrybackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/basecommercebackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/promotionsbackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/voucherbackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/backofficesolrsearch/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-applications/pcmbackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/rule-engine/ruleenginebackoffice/resources/backoffice" />
+      <root url="file://$PROJECT_DIR$/hybris/bin/modules/promotion-engine/promotionenginebackoffice/resources/backoffice" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
@@ -38,7 +37,6 @@
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-applications/pcmbackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/backofficesolrsearch/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/backoffice-framework/platformbackoffice/resources/backoffice" recursive="true" />
-    <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-accelerator/yacceleratorbackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/basecommercebackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/promotionsbackoffice/resources/backoffice" recursive="true" />
     <jarDirectory url="file://$PROJECT_DIR$/hybris/bin/modules/base-commerce/voucherbackoffice/resources/backoffice" recursive="true" />

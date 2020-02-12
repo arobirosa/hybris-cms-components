@@ -28,6 +28,7 @@
         <option value="apparelstore" />
         <option value="arecoDeploymentScriptsManager" />
         <option value="arecodeploymentscriptsbackoffice" />
+        <option value="areconewslettercomponent" />
         <option value="assistedservicecustomerinterestsaddon" />
         <option value="assistedservicecustomerinterestsfacades" />
         <option value="assistedservicefacades" />
@@ -432,6 +433,13 @@
         <option value="timedaccesspromotionenginesamplesaddon" />
         <option value="timedaccesspromotionengineservices" />
         <option value="tomcatembeddedserver" />
+        <option value="trainingbackoffice" />
+        <option value="trainingcore" />
+        <option value="trainingfacades" />
+        <option value="trainingfulfilmentprocess" />
+        <option value="traininginitialdata" />
+        <option value="trainingstorefront" />
+        <option value="trainingtest" />
         <option value="verticalnavigationaddon" />
         <option value="voucher" />
         <option value="voucherbackoffice" />
@@ -488,9 +496,10 @@
     <option name="hybrisDirectory" value="hybris" />
     <option name="hybrisProject" value="true" />
     <option name="hybrisVersion" value="1905.10" />
-    <option name="ideModulesFilesDirectory" value="$PROJECT_DIR$/idea-module-files" />
+    <option name="ideModulesFilesDirectory" value="$PROJECT_DIR$/.idea/modules/hybris-integration" />
     <option name="importOotbModulesInReadOnlyMode" value="true" />
-    <option name="importedByVersion" value="2019.1.3.7" />
+    <option name="importedByVersion" value="2019.3.8.5" />
+    <option name="moduleSchemaVersion" value="2" />
     <option name="unusedExtensions">
       <set>
         <option value="arecoDeploymentScriptsManager" />

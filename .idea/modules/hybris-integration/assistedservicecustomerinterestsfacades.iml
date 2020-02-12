@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="assistedservicecustomerinterestsfacadesspring" name="assistedservicecustomerinterestsfacadesspring" removed="false">
+          <dependency>customerinterestsfacadesspring==customerinterestsfacades</dependency>
+          <dependency>assistedservicefacadesspring==assistedservicefacades</dependency>
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/resources/assistedservicecustomerinterestsfacades-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/project.properties</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../hybris/bin/modules/assisted-services/assistedservicecustomerinterestsfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="customerinterestsfacades" exported="" />
+    <orderEntry type="module" module-name="assistedservicefacades" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>
