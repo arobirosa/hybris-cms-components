@@ -82,14 +82,14 @@
 		<!-- Run the tests using another process. 
 			Hybris runs the tests using the currently running JVM. Cobertura saves the data when the JVM exits
 			and there is no way to run them on another JVM in another process.-->
-		<echo message="Running all tests of the org.areco package"/>	
+		<echo message="Running all tests of the org.areco.ecommerce.cms package"/>	
 		<exec dir="${dir_platform}" executable="ant" failonerror="true" failifexecutionfails="true" osfamily="unix" outputproperty="alltests_output">			
 			<arg line="alltests"/>
-			<arg line="-Dtestclasses.packages=org.areco.*"/>
+			<arg line="-Dtestclasses.packages=org.areco.ecommerce.cms.*"/>
 		</exec>
 		<exec dir="${dir_platform}" executable="ant.bat" failonerror="true" failifexecutionfails="true" osfamily="windows" outputproperty="alltests_output">
 			<arg line="alltests"/>
-			<arg line="-Dtestclasses.packages=org.areco.*"/>
+			<arg line="-Dtestclasses.packages=org.areco.ecommerce.cms.*"/>
 		</exec>
 				 
 	    <!-- As we can't access the ant properties of the subprocess, we check against a string value -->
