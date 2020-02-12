@@ -4,6 +4,10 @@ import javax.validation.constraints.AssertTrue;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 
+/**
+ * Represents the form used by the customer to subscribe to the newsletter. Used by the controller.
+ * */
+
 public class NewsletterSignupForm {
 
 	@Email @NotBlank
