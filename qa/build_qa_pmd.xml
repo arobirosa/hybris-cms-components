@@ -19,7 +19,7 @@
 			</formatter>
 			<formatter type="text" showSuppressed="false" toConsole="true">
 			</formatter>
-			<fileset refid="fileset_src_pmd"/>
+			<fileset refid="fileset_src_without_training"/>
 		</pmd>
 	</target>
 	

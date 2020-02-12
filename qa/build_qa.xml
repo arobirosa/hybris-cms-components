@@ -20,7 +20,7 @@
 	</fileset>
 	
 	<!-- Excludes the training extensions containing accelerator code -->
-	<fileset dir="${dir_hybris_bin}" id="fileset_src_pmd">
+	<fileset dir="${dir_hybris_bin}" id="fileset_src_without_training">
 		<include name="custom/areco*/src/**/*.java"/>
 		<include name="custom/areco*/web/src/**/*.java"/>
 		<include name="custom/areco*/backoffice/src/**/*.java"/>		
