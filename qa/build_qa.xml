@@ -37,6 +37,7 @@
 		<include name="platform/tomcat/lib/*.jar"/>		
 		<include name="modules/**/web/webroot/WEB-INF/lib/*.jar"/>
 		<include name="modules/**/bin/*.jar"/>
+		<include name="modules/**/classes/**/*.class"/>
 	</fileset>
 	
 	<target name="qa" depends="qa_clean, findbugs, pmd, checkstyle, cobertura" description="Runs Findbugs, PMD, Checkstyle and Cobertura" />
