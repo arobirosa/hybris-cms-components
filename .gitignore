@@ -63,7 +63,7 @@ qa_reports/
 qa/findbugs-*
 qa/spotbugs-*
 qa/pmd-bin*
-qa/checkstyle
+qa/checkstyle-*
 !qa/checkstyle-simple.xsl
 
 qa/cobertura-*
