@@ -1,24 +1,25 @@
 <project name="ant_qa_findbugs" default="findbugs" basedir=".">
-	<property name="dir_findbugs_home" value="${dir_qa}/findbugs-3.0.1"/>
-	<property name="dir_findbugs_donwload_url" value="http://downloads.sourceforge.net/project/findbugs/findbugs/3.0.1/findbugs-noUpdateChecks-3.0.1.zip"/>
-	<property name="dir_findbugs_donwload_file" value="${dir_qa}/findbugs.zip"/>
+	<property name="dir_findbugs_home" value="${dir_qa}/spotbugs-3.1.12"/>
+	<property name="dir_findbugs_donwload_url" value="https://repo.maven.apache.org/maven2/com/github/spotbugs/spotbugs/3.1.12/spotbugs-3.1.12.zip"/>
+	<property name="dir_findbugs_donwload_file" value="${dir_qa}/spotbugs.zip"/>
 	
-	<target name="findbugs" depends="findbugs.install, build" description="Runs Findbugs">
-		 <taskdef name="findbugs" classname="edu.umd.cs.findbugs.anttask.FindBugsTask">
+	<target name="findbugs" depends="findbugs.install, build" description="Runs Spotbugs">		
+		 <taskdef resource="edu/umd/cs/findbugs/anttask/tasks.properties">
 				<classpath>
 					<fileset dir="${dir_findbugs_home}/lib/">
 						<include name="*.jar"/>
 					</fileset>
 				</classpath>
 		</taskdef>
-		<!-- Any violation must break the build -->
-		<findbugs home="${dir_findbugs_home}"
+		<!-- Any violation must break the build -->				
+		<spotbugs home="${dir_findbugs_home}"
 			  reportLevel="low"
               output="html"
               outputFile="${dir_qa_reports}/findbugs_report.html"
               stylesheet="plain.xsl"
               effort="max"
               failOnError="true"
+              errorProperty="findbugsFailure"
               excludeFilter="${dir_qa}/findbugs_excluded_classes.xml"
               warningsProperty="findbugsFailure">
 			<sourcePath path="${basedir}/src/java" />
@@ -26,7 +27,7 @@
 			<auxClasspath>
                 <fileset refid="fileset_hybris_bin" />
             </auxClasspath>
-		</findbugs>
+		</spotbugs>
 		<!-- Fail on any warning -->
 		<fail if="findbugsFailure" />
 	</target>

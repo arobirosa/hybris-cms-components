@@ -61,6 +61,7 @@ qa_reports/
 
 #We ignore the directories with the binaries of PMD, Checkstyle and Findbugs.
 qa/findbugs-*
+qa/spotbugs-*
 qa/pmd-bin*
 qa/checkstyle
 !qa/checkstyle-simple.xsl
