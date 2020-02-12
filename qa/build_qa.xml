@@ -10,19 +10,20 @@
 	<import file="${dir_qa}/build_qa_cobertura.xml"/>
 	
 	<fileset dir="${dir_hybris_bin}" id="fileset_src">
-		<include name="custom/*/src/**/*.java"/>
-		<include name="custom/*/web/src/**/*.java"/>
-		<include name="custom/*/backoffice/src/**/*.java"/>		
-		<include name="custom/*/testsrc/**/*.java"/>
-		<include name="custom/*/web/testsrc/**/*.java"/>
-		<include name="custom/*/backoffice/testsrc/**/*.java"/>
-		<include name="custom/*/accelerator/web/src/**/*.java"/>
+		<include name="custom/**/src/**/*.java"/>
+		<include name="custom/**/web/src/**/*.java"/>
+		<include name="custom/**/backoffice/src/**/*.java"/>		
+		<include name="custom/**/testsrc/**/*.java"/>
+		<include name="custom/**/web/testsrc/**/*.java"/>
+		<include name="custom/**/backoffice/testsrc/**/*.java"/>
+		<include name="custom/**/accelerator/web/src/**/*.java"/>
 	</fileset>
 	
+	
 	<fileset dir="${dir_hybris_bin}" id="fileset_bin">
-		<include name="custom/*/classes/**/*.class"/>
-		<include name="custom/*/web/webroot/WEB-INF/classes/"/>
-		<include name="custom/*/backoffice/classes/**/*.class"/>		
+		<include name="custom/**/classes/**/*.class"/>
+		<include name="custom/**/web/webroot/WEB-INF/classes/"/>
+		<include name="custom/**/backoffice/classes/**/*.class"/>		
 	</fileset>
 	
 	<fileset dir="${dir_hybris_bin}" id="fileset_hybris_bin">
@@ -34,8 +35,8 @@
 		<include name="platform/ext/*/web/webroot/WEB-INF/bin/*.jar"/>		
 		<include name="platform/bootstrap/bin/*.jar"/>
 		<include name="platform/tomcat/lib/*.jar"/>		
-		<include name="modules/backoffice-framework/backoffice/web/webroot/WEB-INF/lib/*.jar"/>
-		<include name="modules/cockpit-core/deprecated/cockpit/bin/*.jar"/>
+		<include name="modules/**/web/webroot/WEB-INF/lib/*.jar"/>
+		<include name="modules/**/bin/*.jar"/>
 	</fileset>
 	
 	<target name="qa" depends="qa_clean, findbugs, pmd, checkstyle, cobertura" description="Runs Findbugs, PMD, Checkstyle and Cobertura" />
